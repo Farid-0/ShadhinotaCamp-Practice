@@ -1,0 +1,143 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+
+*{
+    padding:0;
+    margin:0;
+    box-sizing: oorder-box;
+}
+
+body{
+    font-family: "Roboto", sans-serif;
+}
+
+.container{
+    width:1160px;
+    margin:auto;
+}
+
+
+.banner-area {
+	margin-top: 50px;
+}
+
+
+.banner-img img{
+    width: 100%;
+    border-radius:20px;
+}
+
+
+.banner-text {
+	padding: 40px 0px;
+}
+
+.banner-text h2{
+    font-size:50px;
+    font-weight:700;
+}
+
+
+.banner-text p {
+    font-size:18px;
+    font-weight:400;
+    margin-top:8px;
+    width:70%;
+    line-height:35px
+}
+
+
+.preparation-time {
+	padding: 60px 0px;
+}
+
+.preparation-text h3{
+    font-size:30px;
+    color:#a73e4c;
+    font-weight:400;
+}
+
+
+.pre-list li {
+	font-size: 18px;
+	margin-top: 10px;
+}
+
+
+.preparation-text{
+    background: #f3e5d8;
+    border-radius:10px;
+    padding: 30px;
+}
+
+
+.ingredient-area{
+    padding:50px 0px;
+}
+
+
+.ingredient-text h3{
+    font-size:30px;
+    color: #8c0019;
+    font-weight: 700;
+    margin-bottom:20px;
+}
+
+.ingredient-text ul li{
+    font-size:17px;
+    line-height:30px;
+    font-weight:400;
+}
+
+
+.Instructions-text h3{
+    font-size:30px;
+    color: #8c0019;
+    font-weight: 700;
+    margin-bottom:20px;
+}
+
+
+.Instructions-text ol li{
+    font-size:17px;
+    line-height:35px;
+    font-weight:400;
+    width:70%;
+}
+
+
+
+.nutrions-area{
+    padding:40px 0px;
+}
+
+
+
+.nutrions-text h3{
+    font-size:30px;
+    color: #8c0019;
+    font-weight: 700;
+    margin-bottom:20px;
+}
+
+.nutrions-text p {
+	font-size: 18px;
+	font-weight: 400;
+	margin-top: 8px;
+	margin-bottom: 50px;
+}
+
+
+.table tr{
+    padding:10px 0px;
+}
+
+.table {
+    width: 100%;
+    text-align: center;
+  }
+.table tr td, .table tr th {
+    padding: 10px 0px;
+    border: none;
+    border-bottom: 1px solid #8c001936;
+  }
